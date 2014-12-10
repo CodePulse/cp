@@ -215,9 +215,9 @@ $databases = array (
   array (
     'default' => 
     array (
-      'database' => 'codepulse',
-      'username' => 'drupal',
-      'password' => 'drupalpwd',
+      'database' => 'codepulse_drupal',
+      'username' => 'root',
+      'password' => '9&iWW3DBM.6=n',
       'host' => 'localhost',
       'port' => '',
       'driver' => 'mysql',
