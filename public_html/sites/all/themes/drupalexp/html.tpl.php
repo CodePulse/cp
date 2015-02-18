@@ -6,6 +6,7 @@
 		<title><?php print $head_title; ?></title>
 		<?php print $styles; ?>
 		<?php print $scripts; ?>
+    <script src='https://www.google.com/recaptcha/api.js'></script>
 	</head>
 	<body class="<?php print $classes; ?>" <?php print $attributes;?>>
 		<div id="skip-link">
