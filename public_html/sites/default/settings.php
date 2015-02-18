@@ -215,9 +215,10 @@ $databases = array (
   array (
     'default' => 
     array (
-      'database' => 'codepulse_drupal',
-      'username' => 'root',
-      'password' => '9&iWW3DBM.6=n',
+//      'database' => 'ADD RECAPTCHA TO CONTACT US PAGE/ ALSO UPDATE DRUPAL USING THAT THING BELOW!!b',
+      'database' => 'codepulse',
+      'username' => 'drupal',
+      'password' => 'drupalpwd',
       'host' => 'localhost',
       'port' => '',
       'driver' => 'mysql',
@@ -237,7 +238,7 @@ $databases = array (
  * After finishing the upgrade, be sure to open this file again and change the
  * TRUE back to a FALSE!
  */
-$update_free_access = FALSE;
+$update_free_access = TRUE;
 
 /**
  * Salt for one-time login links and cancel links, form tokens, etc.
