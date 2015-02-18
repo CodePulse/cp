@@ -216,9 +216,9 @@ $databases = array (
     'default' => 
     array (
 //      'database' => 'ADD RECAPTCHA TO CONTACT US PAGE/ ALSO UPDATE DRUPAL USING THAT THING BELOW!!b',
-      'database' => 'codepulse',
-      'username' => 'drupal',
-      'password' => 'drupalpwd',
+      'database' => 'codepulse_drupal',
+      'username' => 'root',
+      'password' => '9&iWW3DBM.6=n',
       'host' => 'localhost',
       'port' => '',
       'driver' => 'mysql',
