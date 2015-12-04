@@ -1,6 +1,6 @@
 # Ignore configuration files that may contain sensitive information.
 public_html/sites/*/*settings*.php
-public_html/sites/*/files.tgz
+# public_html/sites/*/files.tgz
 public_html/sites/*/private-files.tgz
 public_html/sites/*/privatefiles
 
