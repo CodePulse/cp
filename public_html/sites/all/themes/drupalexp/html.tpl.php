@@ -16,4 +16,7 @@
 		<?php print $page; ?>
 		<?php print $page_bottom; ?>
 	</body>
+
+	<script src="//load.sumome.com/" data-sumo-site-id="298b99b8880db76fc55d5f23ed81b8bae2ae7e0f8478042774654701e4b1f1c0" async="async"></script>
+
 </html>
